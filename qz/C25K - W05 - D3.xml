@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row duration="00:00:30" speed="2" forcespeed="1" />
+    <row duration="00:00:30" speed="2.5" forcespeed="1" />
+    <row duration="00:01:00" speed="3" forcespeed="1" />
+    <row duration="00:01:00" speed="3.5" forcespeed="1" />
+    <row duration="00:02:00" speed="4" forcespeed="1" />
+    <row duration="00:20:00" speed="7" forcespeed="1" />
+    <row duration="00:00:30" speed="3" forcespeed="1" />
+    <row duration="00:00:30" speed="3.5" forcespeed="1" />
+    <row duration="00:02:00" speed="4" forcespeed="1" />
+    <row duration="00:00:30" speed="3.5" forcespeed="1" />
+    <row duration="00:00:30" speed="3" forcespeed="1" />
+    <row duration="00:00:30" speed="2.5" forcespeed="1" />
+    <row duration="00:00:30" speed="2" forcespeed="1" />
+</rows>
