@@ -2,9 +2,20 @@
 
 Couch to 5k training plans for [qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) in xml format.
 
+The speed values in this repo is tailored for my use. Feel free to fork this repository and customize it to suit your needs.
+
+|       | Walk         | Jog         |
+| ----- | ------------ | ----------- |
+| Speed | 2-4 kph      | 7 kph       |
+| Pace  | 30-15 min/km | 8:34 min/km |
+
+By committing to 3 days per week, this training program will safely guide you to achieve 30 minutes of continuous jogging within a period of 9 weeks.
+
 ## Training Plan
 
-Source: [https://c25k.com/c25k_plan/](https://c25k.com/c25k_plan/)
+C25K, is a fantastic program that’s been designed to get just about anyone from the couch to running 5 kilometers or 30 minutes in just 9 weeks.
+
+> Warning: Before you lace up those running shoes, I strongly advise you to consult with your healthcare provider. Although the program is structured to accommodate beginners, everyone’s health and physical condition is unique, and what works for one person might not work for another.
 
 | Week | Workout 1                                                                                                                                                                               | Workout 2                                                                                                                                                                               | Workout 3                                                                                                                                                                               |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,3 +28,11 @@ Source: [https://c25k.com/c25k_plan/](https://c25k.com/c25k_plan/)
 | 7    | Brisk five-minute warmup walk, then jog 25 minutes.                                                                                                                                     | Brisk five-minute warmup walk, then jog 25 minutes.                                                                                                                                     | Brisk five-minute warmup walk, then jog 25 minutes.                                                                                                                                     |
 | 8    | Brisk five-minute warmup walk, then jog 28 minutes                                                                                                                                      | Brisk five-minute warmup walk, then jog 28 minutes                                                                                                                                      | Brisk five-minute warmup walk, then jog 28 minutes                                                                                                                                      |
 | 9    | Brisk five-minute warmup walk, then jog 30 minutes                                                                                                                                      | Brisk five-minute warmup walk, then jog 30 minutes                                                                                                                                      | The final workout! Congratulations! Brisk five-minute warmup walk, then jog 30 minutes                                                                                                  |
+
+Source: [https://c25k.com/c25k_plan/](https://c25k.com/c25k_plan/)
+
+## Usage
+
+Send the files to your device that runs [qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift). In the app menu, select **Open train program** then browse for the workout file you want to load.
+
+More info can be found in the [qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) repository.
