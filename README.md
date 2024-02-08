@@ -9,6 +9,8 @@ The speed values in this repo is tailored for my use. Feel free to fork this rep
 | Speed | 2-4 kph      | 7 kph       |
 | Pace  | 30-15 min/km | 8:34 min/km |
 
+Advice for beginners, your jog speed should pass the **talk test**(you can talk while jogging). If not, you are jogging too fast.
+
 By committing to 3 days per week, this training program will safely guide you to achieve 30 minutes of continuous jogging within a period of 9 weeks.
 
 ## Training Plan
