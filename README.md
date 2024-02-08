@@ -1,6 +1,6 @@
 # Couch to 5k
 
-Couch to 5k training plans for [qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) in xml format.
+Couch to 5k training plan for [qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) in xml format.
 
 The speed values in this repo is tailored for my use. Feel free to fork this repository and customize it to suit your needs.
 
