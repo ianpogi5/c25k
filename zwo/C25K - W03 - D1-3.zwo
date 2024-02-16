@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<workout_file>
+    <author>Ian Dela Cruz</author>
+    <name>Couch to 5K - Week 3 - Day 1 to 3</name>
+    <description>Brisk five-minute warmup walk, then do two repetitions of the following:
+- Jog 90 Seconds
+- Walk 90 Seconds
+- Jog 3 Minutes
+- Walk 3 Minutes
+
+Reference: https://c25k.com/c25k_plan/
+    </description>
+    <sportType>run</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <!-- Warmup: Gradual ramp-up over 5 minutes -->
+        <Warmup Duration="300" PowerLow="0.4" PowerHigh="0.65" pace="1" />
+
+        <!-- 1st Set 9 minutes -->
+        <SteadyState Duration="90" Power="1.15" pace="1" />
+        <SteadyState Duration="30" Power="0.50" pace="1" />
+        <SteadyState Duration="30" Power="0.57" pace="1" />
+        <SteadyState Duration="30" Power="0.65" pace="1" />
+        <SteadyState Duration="180" Power="1.15" pace="1" />
+        <SteadyState Duration="60" Power="0.50" pace="1" />
+        <SteadyState Duration="30" Power="0.57" pace="1" />
+        <SteadyState Duration="90" Power="0.65" pace="1" />
+
+        <!-- 2nd Set 9 minutes -->
+        <SteadyState Duration="90" Power="1.15" pace="1" />
+        <SteadyState Duration="30" Power="0.50" pace="1" />
+        <SteadyState Duration="30" Power="0.57" pace="1" />
+        <SteadyState Duration="30" Power="0.65" pace="1" />
+        <SteadyState Duration="180" Power="1.15" pace="1" />
+        <SteadyState Duration="60" Power="0.50" pace="1" />
+        <SteadyState Duration="30" Power="0.57" pace="1" />
+        <SteadyState Duration="90" Power="0.65" pace="1" />
+
+        <!-- Cool Down: 3 minutes easy -->
+        <Cooldown Duration="180" PowerLow="0.65" PowerHigh="0.4" pace="1" />
+    </workout>
+</workout_file>
