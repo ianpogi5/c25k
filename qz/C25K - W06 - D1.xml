@@ -1,22 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Brisk five-minute warmup walk, then:
+    - Jog 5 minutes
+    - Walk 3 minutes
+    - Jog 8 minutes
+    - Walk 3 minutes
+    - Jog 5 minutes
+-->
+
 <rows>
+    <!-- Warmup -->
     <row duration="00:00:30" speed="2" forcespeed="1" />
     <row duration="00:00:30" speed="2.5" forcespeed="1" />
     <row duration="00:01:00" speed="3" forcespeed="1" />
     <row duration="00:01:00" speed="3.5" forcespeed="1" />
     <row duration="00:02:00" speed="4" forcespeed="1" />
+
+    <!-- 1st Set -->
     <row duration="00:05:00" speed="7" forcespeed="1" />
-    <row duration="00:00:30" speed="3" forcespeed="1" />
-    <row duration="00:00:30" speed="3.5" forcespeed="1" />
-    <row duration="00:02:00" speed="4" forcespeed="1" />
+    <row duration="00:01:00" speed="3" forcespeed="1" />
+    <row duration="00:01:00" speed="3.5" forcespeed="1" />
+    <row duration="00:01:00" speed="4" forcespeed="1" />
+
+    <!-- 2nd Set -->
     <row duration="00:08:00" speed="7" forcespeed="1" />
-    <row duration="00:00:30" speed="3" forcespeed="1" />
-    <row duration="00:00:30" speed="3.5" forcespeed="1" />
-    <row duration="00:02:00" speed="4" forcespeed="1" />
+    <row duration="00:01:00" speed="3" forcespeed="1" />
+    <row duration="00:01:00" speed="3.5" forcespeed="1" />
+    <row duration="00:01:00" speed="4" forcespeed="1" />
+
+    <!-- 3rd Set -->
     <row duration="00:05:00" speed="7" forcespeed="1" />
-    <row duration="00:00:30" speed="3" forcespeed="1" />
-    <row duration="00:00:30" speed="3.5" forcespeed="1" />
-    <row duration="00:02:00" speed="4" forcespeed="1" />
+    <row duration="00:01:00" speed="3" forcespeed="1" />
+    <row duration="00:01:00" speed="3.5" forcespeed="1" />
+    <row duration="00:01:00" speed="4" forcespeed="1" />
+
+    <!-- Cooldown -->
     <row duration="00:00:30" speed="3.5" forcespeed="1" />
     <row duration="00:00:30" speed="3" forcespeed="1" />
     <row duration="00:00:30" speed="2.5" forcespeed="1" />

@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Brisk five-minute warmup walk, then jog 28 minutes
+-->
+
 <rows>
+    <!-- Warmup -->
     <row duration="00:00:30" speed="2" forcespeed="1" />
     <row duration="00:00:30" speed="2.5" forcespeed="1" />
     <row duration="00:01:00" speed="3" forcespeed="1" />
     <row duration="00:01:00" speed="3.5" forcespeed="1" />
     <row duration="00:02:00" speed="4" forcespeed="1" />
+
+    <!-- Main Set -->
     <row duration="00:28:00" speed="7" forcespeed="1" />
-    <row duration="00:00:30" speed="3" forcespeed="1" />
-    <row duration="00:00:30" speed="3.5" forcespeed="1" />
-    <row duration="00:02:00" speed="4" forcespeed="1" />
+    <row duration="00:01:00" speed="3" forcespeed="1" />
+    <row duration="00:01:00" speed="3.5" forcespeed="1" />
+    <row duration="00:01:00" speed="4" forcespeed="1" />
+
+    <!-- Cooldown -->
     <row duration="00:00:30" speed="3.5" forcespeed="1" />
     <row duration="00:00:30" speed="3" forcespeed="1" />
     <row duration="00:00:30" speed="2.5" forcespeed="1" />
